@@ -1,14 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>lincscm</title>
+    <title>Enedis news</title>
     <link href="https://hkachetel.github.io/cms-pages/feed.xml" rel="self" />
     <link href="https://hkachetel.github.io/cms-pages" />
-    <updated>2018-11-14T16:02:28+01:00</updated>
+    <updated>2018-11-14T18:15:18+01:00</updated>
     <author>
         <name>DirecTPO</name>
     </author>
     <id>https://hkachetel.github.io/cms-pages</id>
 
+    <entry>
+        <title>Micro App 2</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/micro-app-1-copy-2.html"/>
+        <id>https://hkachetel.github.io/cms-pages/micro-app-1-copy-2.html</id>
+
+        <updated>2018-11-14T17:57:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/4/" alt="" />
+                    dfsdfsfdfdsf 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/4/" alt="" />
+                <p>dfsdfsfdfdsf</p>
+<figure class="post__image undefined" ><img src="https://hkachetel.github.io/cms-pages/media/posts/4/Accueil_-_Enedis.jpg" alt="" width="1756" height="766">
+<figcaption >Put your caption here</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Micro App 4</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html"/>
+        <id>https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html</id>
+
+        <updated>2018-11-14T17:59:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/3/" alt="" />
+                    ActionTaux Moyennessgsgs1234321sgsgsdg4321543 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/3/" alt="" />
+                <table>
+<tbody>
+<tr>
+<td>Action</td>
+<td>Taux </td>
+<td>Moyenne</td>
+</tr>
+<tr>
+<td>ssgsgs</td>
+<td>1234</td>
+<td>321</td>
+</tr>
+<tr>
+<td>sgsgsdg</td>
+<td>4321</td>
+<td>543</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Micro App 3</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/micro-app-1-copy.html"/>
+        <id>https://hkachetel.github.io/cms-pages/micro-app-1-copy.html</id>
+
+        <updated>2018-11-14T17:59:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/2/" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/2/" alt="" />
+                <p><br><iframe width="560" height="314" src="https://www.youtube.com/embed/2MLBLSW9C7E" allowfullscreen="allowfullscreen" ></iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Micro App 1</title>
         <author>
