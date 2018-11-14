@@ -3,7 +3,7 @@
     <title>Enedis news</title>
     <link href="https://hkachetel.github.io/cms-pages/feed.xml" rel="self" />
     <link href="https://hkachetel.github.io/cms-pages" />
-    <updated>2018-11-14T18:15:18+01:00</updated>
+    <updated>2018-11-14T18:43:21+01:00</updated>
     <author>
         <name>DirecTPO</name>
     </author>
@@ -106,19 +106,18 @@
         <link href="https://hkachetel.github.io/cms-pages/micro-app-1.html"/>
         <id>https://hkachetel.github.io/cms-pages/micro-app-1.html</id>
 
-        <updated>2018-11-14T14:46:34+01:00</updated>
+        <updated>2018-11-14T18:38:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
-                    dfsdfsfdfdsf dsfsfsdf sdfsfsdfsdfsdfsdfdsfsdf
+                     
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
-                <p>dfsdfsfdfdsf</p>
-<p>dsfsfsdf</p>
-<p>sdfsfsdfsdfsdfsdfdsfsdf</p>
+                <div style="position: absolute; left: 77; top: 77; width: 377; height: 377; clip: rect(0,381,381,0); background: #FFF;"><iframe width="377" height="377" style="background: #FFF; border: 2px solid #333;" src="https://lincs-v2-portail-cloud-dev.web-enedis.fr" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes">
+ </iframe></div>
             ]]>
         </content>
     </entry>
