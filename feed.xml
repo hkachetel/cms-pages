@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>lincscm</title>
+    <link href="https://hkachetel.github.io/cms-pages/feed.xml" rel="self" />
+    <link href="https://hkachetel.github.io/cms-pages" />
+    <updated>2018-11-14T16:02:28+01:00</updated>
+    <author>
+        <name>DirecTPO</name>
+    </author>
+    <id>https://hkachetel.github.io/cms-pages</id>
+
+    <entry>
+        <title>Micro App 1</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/micro-app-1.html"/>
+        <id>https://hkachetel.github.io/cms-pages/micro-app-1.html</id>
+
+        <updated>2018-11-14T14:46:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
+                    dfsdfsfdfdsf dsfsfsdf sdfsfsdfsdfsdfsdfdsfsdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
+                <p>dfsdfsfdfdsf</p>
+<p>dsfsfsdf</p>
+<p>sdfsfsdfsdfsdfsdfdsfsdf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

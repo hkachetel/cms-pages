@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lincscm",
+    "description": "",
+    "home_page_url": "https://hkachetel.github.io/cms-pages",
+    "feed_url": "https://hkachetel.github.io/cms-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://hkachetel.github.io/cms-pages/media/website/Accueil_-_Enedis_logo.jpg",
+    "author": {
+        "name": "DirecTPO"
+    },
+    "items": [
+        {
+            "id": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
+            "url": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
+            "title": "Micro App 1",
+            "summary": "dfsdfsfdfdsf dsfsfsdf sdfsfsdfsdfsdfsdfdsfsdf",
+            "content_html": "<p>dfsdfsfdfdsf</p>\n<p>dsfsfsdf</p>\n<p>sdfsfsdfsdfsdfsdfdsfsdf</p>",
+            "image": "https://hkachetel.github.io/cms-pages/media/posts/1/",
+            "author": {
+                "name": "DirecTPO"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-14T14:46:34+01:00",
+            "date_modified": "2018-11-14T14:46:34+01:00"
+        }
+    ]
+}
