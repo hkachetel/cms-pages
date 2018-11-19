@@ -9,20 +9,5 @@
         "name": "DirecTPO"
     },
     "items": [
-        {
-            "id": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html",
-            "url": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html",
-            "title": "Micro App 4",
-            "summary": "ActionTaux Moyennessgsgs1234321sgsgsdg4321543 ",
-            "content_html": "<table>\n<tbody>\n<tr>\n<td>Action</td>\n<td>Taux </td>\n<td>Moyenne</td>\n</tr>\n<tr>\n<td>ssgsgs</td>\n<td>1234</td>\n<td>321</td>\n</tr>\n<tr>\n<td>sgsgsdg</td>\n<td>4321</td>\n<td>543</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "image": "https://hkachetel.github.io/cms-pages/media/posts/3/",
-            "author": {
-                "name": "DirecTPO"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-11-14T17:55:21+01:00",
-            "date_modified": "2018-11-14T17:59:40+01:00"
-        }
     ]
 }
