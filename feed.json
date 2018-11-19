@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-2.html",
-            "url": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-2.html",
-            "title": "Micro App 2",
-            "summary": "dfsdfsfdfdsf ",
-            "content_html": "<p>dfsdfsfdfdsf</p>\n<figure class=\"post__image undefined\" ><img src=\"https://hkachetel.github.io/cms-pages/media/posts/4/Accueil_-_Enedis.jpg\" alt=\"\" width=\"1756\" height=\"766\">\n<figcaption >Put your caption here</figcaption>\n</figure>\n<p> </p>",
-            "image": "https://hkachetel.github.io/cms-pages/media/posts/4/",
-            "author": {
-                "name": "DirecTPO"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-11-14T17:55:21+01:00",
-            "date_modified": "2018-11-14T17:57:24+01:00"
-        },
-        {
             "id": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html",
             "url": "https://hkachetel.github.io/cms-pages/micro-app-1-copy-copy.html",
             "title": "Micro App 4",
@@ -39,36 +24,6 @@
             ],
             "date_published": "2018-11-14T17:55:21+01:00",
             "date_modified": "2018-11-14T17:59:40+01:00"
-        },
-        {
-            "id": "https://hkachetel.github.io/cms-pages/micro-app-1-copy.html",
-            "url": "https://hkachetel.github.io/cms-pages/micro-app-1-copy.html",
-            "title": "Micro App 3",
-            "summary": " ",
-            "content_html": "<p><br><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2MLBLSW9C7E\" allowfullscreen=\"allowfullscreen\" ></iframe></p>",
-            "image": "https://hkachetel.github.io/cms-pages/media/posts/2/",
-            "author": {
-                "name": "DirecTPO"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-11-14T17:55:17+01:00",
-            "date_modified": "2018-11-14T17:59:27+01:00"
-        },
-        {
-            "id": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
-            "url": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
-            "title": "Micro App 1",
-            "summary": " ",
-            "content_html": "<div style=\"position: absolute; left: 77; top: 77; width: 377; height: 377; clip: rect(0,381,381,0); background: #FFF;\"><iframe width=\"377\" height=\"377\" style=\"background: #FFF; border: 2px solid #333;\" src=\"https://lincs-v2-portail-cloud-dev.web-enedis.fr\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"no\" scrolling=\"yes\">\n </iframe></div>",
-            "image": "https://hkachetel.github.io/cms-pages/media/posts/1/",
-            "author": {
-                "name": "DirecTPO"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-11-14T14:46:34+01:00",
-            "date_modified": "2018-11-14T18:38:06+01:00"
         }
     ]
 }
