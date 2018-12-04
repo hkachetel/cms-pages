@@ -9,5 +9,35 @@
         "name": "DirecTPO"
     },
     "items": [
+        {
+            "id": "https://hkachetel.github.io/cms-pages/new-post.html",
+            "url": "https://hkachetel.github.io/cms-pages/new-post.html",
+            "title": "New post",
+            "summary": "Nouveau poste ",
+            "content_html": "<p>Nouveau poste</p>\n<p> </p>\n<table>\n<tbody>\n<tr>\n<td>mljmlf</td>\n<td> </td>\n<td>mljlj</td>\n<td>mmljlj</td>\n<td>mljlmj</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "image": "https://hkachetel.github.io/cms-pages/media/posts/5/",
+            "author": {
+                "name": "DirecTPO"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-04T12:04:13+01:00",
+            "date_modified": "2018-12-04T12:04:13+01:00"
+        },
+        {
+            "id": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
+            "url": "https://hkachetel.github.io/cms-pages/micro-app-1.html",
+            "title": "Micro App 1",
+            "summary": " ",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2MLBLSW9C7E\" allowfullscreen=\"allowfullscreen\"></iframe>        \n<p> </p>\n</figure>\n<figure class=\"post__video\"></figure>",
+            "image": "https://hkachetel.github.io/cms-pages/media/posts/1/",
+            "author": {
+                "name": "DirecTPO"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-27T14:49:10+01:00",
+            "date_modified": "2018-11-27T14:49:10+01:00"
+        }
     ]
 }

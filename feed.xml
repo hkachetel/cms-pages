@@ -3,10 +3,98 @@
     <title>Enedis news</title>
     <link href="https://hkachetel.github.io/cms-pages/feed.xml" rel="self" />
     <link href="https://hkachetel.github.io/cms-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-12-04T12:04:54+01:00</updated>
     <author>
         <name>DirecTPO</name>
     </author>
     <id>https://hkachetel.github.io/cms-pages</id>
 
+    <entry>
+        <title>New post</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/new-post.html"/>
+        <id>https://hkachetel.github.io/cms-pages/new-post.html</id>
+
+        <updated>2018-12-04T12:04:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/5/" alt="" />
+                    Nouveau poste 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/5/" alt="" />
+                <p>Nouveau poste</p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td>mljmlf</td>
+<td> </td>
+<td>mljlj</td>
+<td>mmljlj</td>
+<td>mljlmj</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Micro App 1</title>
+        <author>
+            <name>DirecTPO</name>
+        </author>
+        <link href="https://hkachetel.github.io/cms-pages/micro-app-1.html"/>
+        <id>https://hkachetel.github.io/cms-pages/micro-app-1.html</id>
+
+        <updated>2018-11-27T14:49:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hkachetel.github.io/cms-pages/media/posts/1/" alt="" />
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/2MLBLSW9C7E" allowfullscreen="allowfullscreen"></iframe>        
+<p> </p>
+</figure>
+<figure class="post__video"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
